@@ -1,0 +1,9 @@
+{
+  "dataset": "CirCor DigiScope 2022 (Pediatric)",
+  "test_accuracy": 0.7167,
+  "precision": 0.3409,
+  "recall": 0.4054,
+  "f1_score": 0.3704,
+  "roc_auc_cnn": 0.6806,
+  "best_val_f1": 0.4091
+}
